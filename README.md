@@ -44,4 +44,4 @@
 | comp_filename.py    | 정상적으로 데이터셋 생성/증강이 적용되었는지 확인하기 위한 용도 (특정 디렉토리의 annfiles/images 내용 차이 확인 여부)   |
 | compare_filename.py | 정상적으로 데이터셋 생성/증강이 적용되었는지 확인하기 위한 용도 (학습용 디렉토리의 annfiles/images 내용 차이 확인 여부) |
 | del_filename.py     | annfiles/images 두 디렉토리 중, 한 디렉토리에만 있는 파일 삭제                                                          |
-| draw_bbox.py        | 정답 생성                                                                                                               |
+| draw_bbox.py        | 정답 BBox 이미지 위에 생성                                                                                                               |
